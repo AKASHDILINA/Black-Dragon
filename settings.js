@@ -21,15 +21,15 @@ global.socialm = "A boy" //ur github or insta name
 global.location = "Sri Lanka, Colombo, Kiribathgoda" //ur location
 
 //bot bomdy 
-global.ownernomer = "94786802371" //ur number
-global.premium = ['94786802371'] //ur premium number
-global.botname = 'BLACK DRAGON' //ur bot name
+global.ownernomer = +94 70 343 8872 //ur number
+global.premium = [+94 70 343 8872] //ur premium number
+global.botname = 'akash //ur bot name
 global.linkz = https://chat.whatsapp.com/IUyg3pTFzy1EDY7BWhJjK5 //your theme url which will be displayed on whatsapp
 global.websitex = "https://www.helacloud.ga" //ur website to be displayed
 global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
 global.themeemoji = "❤️" //ur theme emoji
 global.packname = "Sticker By Black Dragon" //ur sticker watermark packname
-global.author = "Nimesh Official" //ur sticker watermark author
+global.author =akash/ur sticker watermark author
 global.wm = "𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡 𝗜𝗡𝗖" //ur watermark
 
 // Other
