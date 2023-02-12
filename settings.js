@@ -28,7 +28,7 @@ global.linkz = https://chat.whatsapp.com/IUyg3pTFzy1EDY7BWhJjK5 //your theme url
 global.websitex = "https://www.helacloud.ga" //ur website to be displayed
 global.botscript = 'https://github.com/nimaofficial/Black-Dragon' //script link
 global.themeemoji = "❤️" //ur theme emoji
-global.packname = "Sticker By Black Dragon" //ur sticker watermark packname
+global.packname = "A BOY" //ur sticker watermark packname
 global.author =akash/ur sticker watermark author
 global.wm = "𝗕𝗟𝗔𝗖𝗞 𝗗𝗥𝗔𝗚𝗢𝗡 𝗜𝗡𝗖" //ur watermark
 
